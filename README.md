@@ -1,2 +1,2 @@
 # AgriTech
-AgriTech Platform for Farmers
+AgriTech Platform for seemless B2B
